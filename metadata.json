@@ -1,0 +1,6 @@
+{
+  "name": "Amir Gold",
+  "description": "تطبيق لعرض أسعار الذهب والفضة والعملات لحظيا بتحديث فعلي ومحاسب ذكي للمصنعية ونظام تنبيهات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
